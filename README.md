@@ -15,6 +15,8 @@ All kinds of keys, material and papers for different majors are provided, based 
 1. 信息科学 Computer Science
 2. 电子信息工程 Electronic Engineering
 
-#### Any contributors are warmly welcomed !!!
+---
 
-欢迎贡献！
+**Any contributors are warmly welcomed !!!**
+
+**欢迎贡献！**
